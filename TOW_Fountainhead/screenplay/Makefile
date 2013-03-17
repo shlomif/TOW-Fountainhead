@@ -5,7 +5,7 @@ FILES = Makefile $(DOCS_SCREENPLAY_XHTML) \
 
 # The-Enemy-English.xhtml \
 
-DOCS_BASE = Humanity-Movie Humanity-Movie-hebrew
+DOCS_BASE = TOW_Fountainhead_1 TOW_Fountainhead_2
 
 DOCS_SCREENPLAY_TEXT = $(patsubst %,%.screenplay-text.txt,$(DOCS_BASE))
 DOCS_SCREENPLAY_XML = $(patsubst %,%.screenplay-xml.xml,$(DOCS_BASE))
