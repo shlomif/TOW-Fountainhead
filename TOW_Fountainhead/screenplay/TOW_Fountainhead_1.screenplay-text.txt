@@ -680,14 +680,14 @@ Roark.
 
 Roark: Oh… Miss Francon, Hi. So, what are you doing here in Jamaica?
 
-Dominique: I’m doing my banner column on house tips from Caribbean Women.
+Dominique: I’m doing my banner column on housing tips from Caribbean Women.
 
 Roark: I have met Mr. Wynand, whom I believe is your boss. I’ll be meeting him
 again this evening. How charming.
 
 </s>
 
-<s id="rest-TODO-split" title="Rest - todo split">
+<s id="Wynands-offer" title="Wynand’s Offer">
 
 [Cut to a restaurant. Everybody is sitting there, dressed in a light but
 elegant way.]
@@ -735,6 +735,10 @@ morning. Why don’t you all join me?
 Everybody else: “Yeah”, “yeah”, ”sounds like fun”.
 
 Roark: OK. Cruising with you sounds like a good idea.
+
+</s>
+
+<s id="stranded-on-the-island" title="Stranded on the Deserted Island">
 
 [Cut to the beach of a Caribbean island. The girls are sitting on the sand, the
 boys are standing to the left, a little farther from the water.]
@@ -800,6 +804,10 @@ Joey’s Voice: … In the world… ever going to get out of that Caribbean
 island? Find out in the continuation of [The <i>The Fountainhead</i> slide is
 displayed] The Fountainhead.
 
+</s>
+
+<s id="joey-needs-to-go" title="Joey Needs to Go">
+
 [Cut to Monica and Rachel’s.]
 
 Joey: I have to go to the audition now, so we’ll have to continue this stuff
@@ -812,6 +820,10 @@ The others: Bye!… Bye, Joey! Break a leg!…
 The others: Hmmm.
 
 Chandler: I say we have a masterpiece in the making.
+
+</s>
+
+<s id="what-Ayn-Rand-did-afterwards" title="What did Ayn Rand do afterwards?">
 
 [Cut. End Credits. Phoebe is sitting on the couch reading The
 Fountainhead.]
@@ -826,8 +838,8 @@ Phoebe: Oooh, yummy…
 
 Ross: Yes, well, and then she worked on Atlas Shrugged.
 
-Phoebe: [In a poetical fashion] “Atlas shrugged from side to side. Alas, my end
-is near - the lady cried.”
+Phoebe: [In a poetical fashion] “Atlas shrugged from side to side. Alas, my
+end is near - the lady cried.”
 
 Monica: Ehmm… Pheebs? That’s the “Mirror Crack’d from side to side”.
 
