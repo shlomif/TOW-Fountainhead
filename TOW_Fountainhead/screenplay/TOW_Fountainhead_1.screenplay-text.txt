@@ -105,7 +105,7 @@ Ross’ Voice: Let’s skip the opening, OK.
 
 </s>
 
-<s id="rest-TODO-split" title="Rest - todo split">
+<s id="roark-quitting" title="Roark Quitting Stanton Tech">
 
 [The screen changes to a long shot of a provincial university and then the dean
 office is shown. The dean is standing in the middle holding one picture in each
@@ -172,8 +172,12 @@ Dean: Very well. [he’s puzzled]
 
 Roark: I think I’m going to leave now. Thanks again.
 
-[Roark leaves the room, and on his way out meets Chandler who’s wearing a black
-graduation cloak.]
+</s>
+
+<s id="roark-and-keating-planning" title="Roark and Keating Planning Their Future">
+
+[Roark leaves the room, and on his way out meets Chandler who is wearing a
+black graduation cloak.]
 
 Peter Keating: Oh, hey Howard. How did it go?
 
@@ -201,6 +205,10 @@ I’m going to find myself a nice job and all, but I suppose I can arrange you
 guys a commission or two. I’m good at those things.
 
 Roark: [Laconically] Yes, Peter. You are.
+
+</s>
+
+<s id="catherine-and-toohey" title="Catherina and Toohey">
 
 Phoebe’s voice: Oooh, now I want to continue. Let’s see, yes. [The scene
 changes to Ellsworth Toohey’s home] Keating and Roark, were not the only ones
@@ -249,6 +257,10 @@ Toohey: Okay. Remember my cabbage pie?
 
 Catherine: On second thought: I’ll do all the cooking.
 
+</s>
+
+<s id="meet-cameron" title="Meet Cameron">
+
 [Cut to Cameron’s Office door. Roark and Keating arrive there after climbing
 the stairs.]
 
@@ -286,6 +298,10 @@ Peter started his own public relations company and is now regarded as the
 father of American publicists. [During this speech there are various slides:
 Cameron, Roark and Keating smiling; Roark and Cameron fighting while Peter
 tries to calm them down; a photo of the Keating Foundation.]
+
+</s>
+
+<s id="book-discussion-about-Jane-Eyre" title="Book Discussion about Jane Eyre">
 
 [Cut to Catherine’s apartment. She is hosting a book discussion with many of
 her female friends. Sophie (depicted by Bonnie, the friend Phoebe fixed up with
@@ -336,6 +352,10 @@ evening [kisses her on the chick]. Good Bye!
 Catherine: Bye. [she closes the door after Peter and lies against the door.]
 Ehmmmm… I’m going to die an old maid at this rate. [Walks forwards, off the
 door.]
+
+</s>
+
+<s id="enter-Dominique" title="Enter Dominique">
 
 [Cut to an office desk.]
 
@@ -392,7 +412,11 @@ and shakes him] I WANT HIM <b>BAD!</b>
 
 Toohey: [Releases her hands of his collar.] Calm down, Miss Francon. I dare say
 my experience in this field had been… inadequate… but it is a common belief
-that sometimes it is best to simply tell him about it.
+that sometimes it is best to simply tell one’s object of affection about it.
+
+</s>
+
+<s id="Dominique-seducing-Roark" title="Dominique Seducing Roark">
 
 [Cut to Roark’s house. He is sitting at a desk at the back of the frame, hears
 a door bell, opens the door. It’s Dominique.]
@@ -415,6 +439,10 @@ Dominique: Why?
 Roark: I can see your reflection in the window. [Pause.] I should have
 thought about it when I designed this room.
 
+</s>
+
+<s id="Dominique-telling-Toohey-about-her-love-life" title="Dominique Telling Toohey about her Love Life">
+
 [Cut to Dominique’s office. She is talking to Toohey]
 
 Dominique: Anyway, then we were tired of fooling around, so we went to bed,
@@ -430,6 +458,10 @@ every detail of my love life would not help you a bit, would it? [She lets go
 of his hands, walks to her desk, and grabs her typewriter]
 
 +++: Wanna have lunch together?
+
+</s>
+
+<s id="rest-TODO-split" title="Rest - todo split">
 
 [Cut to the arbour of Sophie’s mansion. Sophie is sitting on a chair next to a
 glass table. She is reading a book. The New-York Banner is laid on the table.
