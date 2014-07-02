@@ -461,7 +461,7 @@ of his hands, walks to her desk, and grabs her typewriter]
 
 </s>
 
-<s id="rest-TODO-split" title="Rest - todo split">
+<s id="Sophies-sex-advice" title="Sophie’s sex advice.">
 
 [Cut to the arbour of Sophie’s mansion. Sophie is sitting on a chair next to a
 glass table. She is reading a book. The New-York Banner is laid on the table.
@@ -498,6 +498,10 @@ Catherine: So, what should I do?
 
 Sophie: Why not go visit him in his office for a start?
 
+</s>
+
+<s id="Catherine-at-Keating-s-office" title="Catherine at Keating’s Office">
+
 [Cut to Peter’s office entrance.]
 
 Keating’s Secretary: Mr. Keating, there’s a Miss Catherine Halsey here to see
@@ -522,6 +526,10 @@ Keating: So, bye Catherine.
 Roark: Farewell, Miss Halsey.
 
 Catherine: [Disappointedly] Bye.
+
+</s>
+
+<s id="Sophie-about-Gail-Wynand" title="Sophie about Gail Wynand">
 
 [Cut to Sophie’s house. Catherine and Sophie are sitting there talking.]
 
@@ -554,6 +562,10 @@ Catherine: Yes, this physicist guy.
 Sophie: Well, last time he met Gail Wynand, he ended up in New Guinea!
 
 Catherine: In that case, there’s only one thing I must do.
+
+</s>
+
+<s id="Catherine-boarding-a-plane" title="Catherine boarding an aeroplane">
 
 [Cut to an airport. Catherine is wearing a pilot’s jacket and is walking
 forward. Sophie is besides her.]
@@ -597,6 +609,10 @@ falls down into a greenery field.]
 
 Catherine: [Slowly] Eight lives left. [Looks and sees a four-leaf clover right
 in front of her eyes.] Oooohhh, [picks it up and get up] make it nine.
+
+</s>
+
+<s id="Meet-Wynand" title="Meeting Gail Wynand">
 
 [Cut to another place in Jamaica. Roark and Keating enter the frame.]
 
@@ -649,6 +665,10 @@ build. I’ll meet you all in the evening, OK?
 
 Wynand: Tell everybody that I ask them to help Howard Roark build his building.
 
+</s>
+
+<s id="Roark-meets-Dominique-in-Jamaica" title="Roark meets Dominique in Jamaica">
+
 [Cut to construction site. Roark is there, as well as many Jamaicans who are in
 the midst of building his building.]
 
@@ -664,6 +684,10 @@ Dominique: I’m doing my banner column on house tips from Caribbean Women.
 
 Roark: I have met Mr. Wynand, whom I believe is your boss. I’ll be meeting him
 again this evening. How charming.
+
+</s>
+
+<s id="rest-TODO-split" title="Rest - todo split">
 
 [Cut to a restaurant. Everybody is sitting there, dressed in a light but
 elegant way.]
