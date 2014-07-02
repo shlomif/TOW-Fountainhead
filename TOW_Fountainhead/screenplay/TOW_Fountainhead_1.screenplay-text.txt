@@ -9,6 +9,8 @@ serves as a parody of the book <i>The Fountainhead</i> by Ayn Rand, which is
 also copyrighted, and the characters and concepts from it belong to the Ayn
 Rand estate.]
 
+<s id="joey-reading-the-fountainhead" title="Joey Reading the Fountainhead">
+
 [The girls’ apartment: Ross and Chandler are by the chair watching T.V., Joey
 is reading a book on the sofa. Monica is at the counter, preparing food. Rachel
 is sitting on a stool by the counter.]
@@ -54,6 +56,10 @@ Joey: Not quite as much as the next night.
 
 [Opening Credits]
 
+</s>
+
+<s id="lets-roleplay-our-own-ver" title="Let’s Roleplay our own version">
+
 Phoebe: [Entering.] Hiaaa, did I miss anything?
 
 Chandler: Well, Joey has an audition for a play version of  <i>The
@@ -96,6 +102,10 @@ title <i>The Fountainhead</i> and several building around. The slide changes to
 “Starring: Chandler Bing, Phoebe Buffet, Monica Geller”.]
 
 Ross’ Voice: Let’s skip the opening, OK.
+
+</s>
+
+<s id="rest-TODO-split" title="Rest - todo split">
 
 [The screen changes to a long shot of a provincial university and then the dean
 office is shown. The dean is standing in the middle holding one picture in each
@@ -773,6 +783,8 @@ Phoebe: Oh! Everybody knows that Ayn Rand wrote all of Agatha Christie’s
 stories.
 
 Chandler: [Tongue-in-cheek] <b>I</b> can totally believe that, Pheebs.
+
+</s>
 
 </s>
 

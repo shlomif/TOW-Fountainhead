@@ -24,7 +24,9 @@ DOCBOOK5_XSL_CUSTOM_FO_XSLT_STYLESHEET := $(HOMEPAGE)/lib/sgml/shlomif-docbook/x
 
 SELINA_UPLOAD_TEMP_DEST = temp-selina-mandrake-P9n7ybv3wq2t
 
-all: $(DOCS_SCREENPLAY_XHTML) $(ENG_EPUB) $(ENG_XHTML) $(ENG_HTML_FOR_OOO)
+ENG_EPUB = $(patsubst %,%.epub,$(DOCS_BASE))
+
+all: $(DOCS_SCREENPLAY_XHTML) $(ENG_XHTML) $(ENG_HTML_FOR_OOO)
 
 upload:
 	rsync -v --progress -a $(FILES) $${HOMEPAGE_SSH_PATH}/$(SELINA_UPLOAD_TEMP_DEST)/
@@ -87,3 +89,8 @@ clean:
 
 linview: $(DOCS_SCREENPLAY_XHTML_AS_HTML)
 	xdg-open $<
+
+EPUB_SCRIPT = scripts/prepare-epub.pl
+
+$(ENG_EPUB): %.epub: %.screenplay-text.xhtml $(EPUB_SCRIPT)
+	perl $(EPUB_SCRIPT) --output $@ $<
