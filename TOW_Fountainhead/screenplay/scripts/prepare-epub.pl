@@ -103,7 +103,9 @@ EOF
 }
 
 my $gfx = 'Green-d10-dice.png';
-io->file('../graphics/' . $gfx) > io->file("$target_dir/$gfx");
+my $images_dir = "$target_dir/images";
+io->dir($images_dir)->mkpath;
+io->file('../graphics/' . $gfx) > io->file("$images_dir/$gfx");
 foreach my $basename ('style.css')
 {
     io->file( "$target_dir/$basename" )->utf8->print(<<'EOF');
@@ -118,7 +120,7 @@ body
 EOF
 }
 
-foreach my $part ($filename =~ /\ATOW_Fountainhead_([0-9]+)\z/)
+foreach my $part ($filename =~ /\ATOW_Fountainhead_([0-9]+)/g)
 {
     my $epub_basename = "TOW_Fountainhead_$part";
     my $json_filename = "$epub_basename.json";
