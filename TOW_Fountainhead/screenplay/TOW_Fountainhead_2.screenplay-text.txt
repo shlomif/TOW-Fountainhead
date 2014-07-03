@@ -127,7 +127,7 @@ of here?
 
 </s>
 
-<s id="rest-TODO-split" title="Rest - TODO - split">
+<s id="the-fountainboys-get-a-ride-back" title="The Fountainboys Get a Ride Back">
 
 [Cut to the fountain-boys. They are sitting in the middle of the island’s
 plant growth, and still discussing the possible ways of getting out of the
@@ -159,6 +159,10 @@ Keating: Gee, that’s nice of them.
 Roark: Yeah, it would have taken us several more days to finish this
 discussion. [They rise and start following Rob.] Regarding what you said about
 the bonfire…
+
+</s>
+
+<s id="what-to-do-next" title="What to do next?">
 
 [Cut to Jamaica, the fountain-girls are dressed in clean light dresses and sit
 next to a table]
@@ -213,6 +217,10 @@ Roark and the women: “Yes”, “Sounds nice”, “We’re in”.
 
 Wynand: Okay. How about that: I drop you off at the Mexican shore, and you’ll
 try to get to the U.S., where you’ll be safe.
+
+</s>
+
+<s id="the-fountainboys-in-the-mexican-town" title="The Fountainboys in the Mexican town.">
 
 [Cut to the entrance to a Mexican town. The Fountain-gang minus Wynand are
 approaching.]
@@ -291,6 +299,10 @@ Mexican Man: Pedro Dominguez.
 Keating: We’ll send Gail your regards.
 
 Pedro: Thanks, man!
+
+</s>
+
+<s id="rest-TODO-split" title="Rest - TODO - split">
 
 [Cut. It’s afternoon and Roark and Keating are walking in the middle of the
 desert.]
