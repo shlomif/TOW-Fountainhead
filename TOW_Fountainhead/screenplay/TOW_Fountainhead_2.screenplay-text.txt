@@ -302,7 +302,7 @@ Pedro: Thanks, man!
 
 </s>
 
-<s id="rest-TODO-split" title="Rest - TODO - split">
+<s id="caught-by-Indians" title="Caught by Indians">
 
 [Cut. It’s afternoon and Roark and Keating are walking in the middle of the
 desert.]
@@ -375,6 +375,10 @@ Wynand: [To Roark] nice move.
 
 Roark: Thanks.
 
+</s>
+
+<s id="after-indians" title="After Escaping from the Indians">
+
 [Later that night. Roark, Keating and Wynand are in the middle of the desert.]
 
 Keating: OK, Gail, I think we lost them. Roark and I have to cross the Rio
@@ -404,6 +408,10 @@ in charge of the newly founded Spanish-speaking division of the Wynand
 Newspapers empire. I smell a huge business potential there… [he continues to
 talk]
 
+</s>
+
+<s id="after-crossing-the-Rio-Grande" title="After Crossing the Rio Grande">
+
 [Cut to the edge of a cliff in Texas near the Mexican border. The three men are
 climbing there after having crossed the Rio Grande. They look awful.]
 
@@ -427,6 +435,10 @@ the way. Anyway, you should come with me.
 
 +++: I don’t believe it: Gail Wynand!! What are you doing crossing the border
 with those two trespassers?
+
+</s>
+
+<s id="in-detention" title="In detention">
 
 [Cut to the Jail. The three fountain-men are in there. The border guard
 approaches the cell’s door and opens it.]
@@ -453,6 +465,10 @@ Dominique: I wonder why you didn’t do the same.
 
 Roark: Because it’s the oldest trick in the book, duh! It would have taken out
 all the challenge.
+
+</s>
+
+<s id="on-the-boat" title="On the boat.">
 
 [Cut to the outside. Everybody except Wynand are there. The men have changed
 and are dressed much more nicely. Wynand enters the frame.]
@@ -585,6 +601,10 @@ my father came to me and said: “Gail, what can I give so you’ll become
 independent?”. So, I said, “Can you lend me a dollar so I can travel to
 New-York?”
 
+</s>
+
+<s id="the-epilogues" title="The Epilogues">
+
 [Long shot of the boat. Cut to Monica and Rachel’s.]
 
 Monica: The end?
@@ -630,7 +650,7 @@ And to think I fell for this guy just because he built some nice buildings.
 
 [Cut. Zoom on a detail in Keating’s office.]
 
-Chandler’s Voice: Peter Keating continued to practice his skills as an
+Chandler’s Voice: Peter Keating continued to practise his skills as an
 architect, and got better in time.
 
 [Zoom out, Keating, Roark and Cameron are sitting in Keating’s office.]
@@ -692,6 +712,10 @@ Mrs. Keating: Amazing!
 Catherine: Yeah, he totally does. If it hadn’t been for me, my uncle would have
 poisoned himself to death with his idea of good cooking.
 
+</s>
+
+<s id="reflecting-on-the-story" title="Reflecting on the story">
+
 [Cut to Monica and Rachel’s]
 
 Chandler: So, Joey what about you?
@@ -711,11 +735,15 @@ have received when hearing our story, I’d say she would have totally dug it.
 
 [End Credits]
 
+</s>
+
+<s id="wynand-and-Toohey" title="Wynand and Toohey">
+
 [Cut to Wynand’s office. He’s sitting there at his desk.]
 
 Joey’s Voice: After the events described previously, Gail Wynand decided to
-turn his newspaper into a benevolent newspaper, hailing the productive scions
-of America, etc. etc. So, he decided to get rid of some bad weed.
+transform his newspaper into a benevolent newspaper, hailing the productive
+scions of America, etc. etc. So, he decided to get rid of some bad weed.
 
 [Toohey enters through the door.]
 
