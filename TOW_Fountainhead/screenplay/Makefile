@@ -11,8 +11,6 @@ include screenplays_common.mak
 
 SELINA_UPLOAD_TEMP_DEST = temp-the-one-with-the-fountainhead-P9n7ybv3wq2t
 
-ENG_EPUB = $(patsubst %,%.epub,$(DOCS_BASE))
-
 all: $(DOCS_SCREENPLAY_XHTML) $(ENG_XHTML) $(ENG_HTML_FOR_OOO)
 
 upload:
