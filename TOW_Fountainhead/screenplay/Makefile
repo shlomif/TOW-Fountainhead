@@ -7,9 +7,9 @@ FILES = Makefile $(DOCS_SCREENPLAY_XHTML) \
 
 DOCS_BASE = TOW_Fountainhead_1 TOW_Fountainhead_2
 
-include screenplays_common.mak
-
 SELINA_UPLOAD_TEMP_DEST = temp-the-one-with-the-fountainhead-P9n7ybv3wq2t
+
+include screenplays_common.mak
 
 all: $(DOCS_SCREENPLAY_XHTML) $(ENG_XHTML) $(ENG_HTML_FOR_OOO)
 
