@@ -1,10 +1,3 @@
-FILES = Makefile $(DOCS_SCREENPLAY_XHTML) \
-		$(DOCS_SCREENPLAY_TEXT) \
-		style.css style-heb.css \
-		README.html
-
-# The-Enemy-English.xhtml \
-
 DOCS_BASE = TOW_Fountainhead_1 TOW_Fountainhead_2
 
 SELINA_UPLOAD_TEMP_DEST = temp-the-one-with-the-fountainhead-P9n7ybv3wq2t
