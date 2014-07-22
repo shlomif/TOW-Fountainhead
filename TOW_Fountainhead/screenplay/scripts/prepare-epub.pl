@@ -43,10 +43,10 @@ foreach my $part ($filename =~ /\ATOW_Fountainhead_([0-9]+)/g)
                     },
                 ],
                 cover => "images/$gfx",
-                rights => "Creative Commons Attribution ShareAlike Unported (CC-by-3.0)",
+                rights => "Creative Commons Attribution ShareAlike Unported (CC-by-sa-3.0)",
                 publisher => 'http://www.shlomifish.org/',
                 language => 'en-GB',
-                subjects => [ 'FICTION/Horror', 'FICTION/Humorous', 'FICTION/Masups', ],
+                subjects => [ 'FICTION/Humorous', 'FICTION/Mashups', ],
                 identifier =>
                 {
                     scheme => 'URL',
