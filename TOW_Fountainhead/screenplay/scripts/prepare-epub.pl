@@ -51,31 +51,6 @@ foreach my $part ($filename =~ /\ATOW_Fountainhead_([0-9]+)/g)
                     scheme => 'URL',
                     value => 'http://www.shlomifish.org/humour/TOWTF/',
                 },
-                contents =>
-                [
-                    {
-                        "type" => "toc",
-                        "source" => "toc.html"
-                    },
-                    {
-                        type => 'text',
-                        source => "scene-*.xhtml",
-                    },
-                ],
-                toc  => {
-                    "depth" => 2,
-                    "parse" => [ "text", ],
-                    "generate" => {
-                        "title" => "Index"
-                    },
-                },
-                guide => [
-                    {
-                        type => "toc",
-                        title => "Index",
-                        href => "toc.html",
-                    },
-                ],
             },
         },
     );
