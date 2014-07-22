@@ -3,9 +3,6 @@
 use strict;
 use warnings;
 
-use IO::All;
-use JSON::MaybeXS qw(encode_json);
-
 use utf8;
 
 use Shlomif::Screenplays::EPUB;
@@ -23,8 +20,10 @@ foreach my $part ($filename =~ /\ATOW_Fountainhead_([0-9]+)/g)
 {
     my $epub_basename = "TOW_Fountainhead_$part";
     $obj->epub_basename($epub_basename);
-    io->file($target_dir . '/' . $obj->json_filename)->utf8->print(
-        encode_json(
+
+    $obj->output_json(
+        {
+            data =>
             {
                 filename => $epub_basename,
                 title => qq/The One with The Fountainhead - Part $part/,
@@ -78,8 +77,6 @@ foreach my $part ($filename =~ /\ATOW_Fountainhead_([0-9]+)/g)
                     },
                 ],
             },
-        ),
+        },
     );
-
-    $obj->output_json;
 }
