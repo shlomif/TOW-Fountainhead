@@ -208,7 +208,7 @@ Roark: [Laconically] Yes, Peter. You are.
 
 </s>
 
-<s id="catherine-and-toohey" title="Catherina and Toohey">
+<s id="catherine-and-toohey" title="Catherine and Toohey">
 
 Phoebe’s voice: Oooh, now I want to continue. Let’s see, yes. [The scene
 changes to Ellsworth Toohey’s home] Keating and Roark, were not the only ones
