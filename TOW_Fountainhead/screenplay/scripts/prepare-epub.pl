@@ -7,14 +7,19 @@ use utf8;
 
 use Shlomif::Screenplays::EPUB;
 
-my $obj = Shlomif::Screenplays::EPUB->new;
+my $gfx = 'towtf-logo-200px.jpg';
+my $obj = Shlomif::Screenplays::EPUB->new(
+    {
+        images =>
+        {
+            $gfx => "images/$gfx",
+        },
+    }
+);
 $obj->run;
 
-my $gfx = $obj->gfx;
 my $filename = $obj->filename;
 my $out_fn = $obj->out_fn;
-my $target_dir = $obj->target_dir;
-
 
 foreach my $part ($filename =~ /\ATOW_Fountainhead_([0-9]+)/g)
 {
