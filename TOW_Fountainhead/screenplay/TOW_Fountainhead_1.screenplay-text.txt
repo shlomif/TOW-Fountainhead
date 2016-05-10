@@ -1,6 +1,6 @@
 <s id="towtf1" title="The One with the Fountainhead - Part 1">
 
-[<b>Written by:</b> <a href="$(ROOT)/">Shlomi Fish</a>.]
+[<b>Written by:</b> <a href="http://www.shlomifish.org/">Shlomi Fish</a>.]
 
 [<b>Note:</b> This is not a real <i>Friends</i> episode, but one written by
 Shlomi Fish. Being <i>Friends</i> fan-fiction, Fish disclaims all copyright
