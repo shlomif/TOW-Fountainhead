@@ -8,4 +8,4 @@
 
 set -e
 set -x
-ci-generate --param 'screenplay_subdir=TOW_Fountainhead/screenplay/'
+ci-generate --theme XML-Grammar-Fiction --param 'screenplay_subdir=TOW_Fountainhead/screenplay/'
