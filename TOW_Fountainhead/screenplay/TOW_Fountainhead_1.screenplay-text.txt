@@ -1,4 +1,4 @@
-<s id="towtf1" title="The One with the Fountainhead - Part 1">
+<s id="towtf1" lang="en" title="The One with the Fountainhead - Part 1">
 
 [<b>Written by:</b> <a href="http://www.shlomifish.org/">Shlomi Fish</a>.]
 

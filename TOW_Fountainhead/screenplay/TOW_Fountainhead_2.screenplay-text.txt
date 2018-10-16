@@ -1,4 +1,4 @@
-<s id="towtf2" title="The One with the Fountainhead - Part 2">
+<s id="towtf2" lang="en" title="The One with the Fountainhead - Part 2">
 
 <s id="joey-got-a-part" title="Joey got a part.">
 
