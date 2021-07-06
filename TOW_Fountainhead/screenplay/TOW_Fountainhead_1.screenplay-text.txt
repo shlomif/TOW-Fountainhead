@@ -355,6 +355,8 @@ door.]
 
 </s>
 
+<s id="Dominique-and-Roark" title="Dominique and Roark commence their relationship">
+
 <s id="enter-Dominique" title="Enter Dominique">
 
 [Cut to an office desk.]
@@ -402,16 +404,16 @@ Toohey: Exactly.
 Dominique: Mr. Toohey, I should say it is my diagnosis that you over-estimate
 your “powers of observation”.
 
-Toohey: Miss Francon… I’m getting tired of this useless mind war. What do
-you say about us being fully sincere with one another?
+Toohey: Miss Francon… to be frank, I’m getting tired of this pointless mind
+war of ours. What do you say about us being fully sincere with one another?
 
 Dominique: Yeah, OK - that’s a good idea.
 
 +++: OK, Mr. Toohey, here’s the thing about Roark: [grabs Toohey by his collar
 and shakes him] I WANT HIM <b>BAD!</b>
 
-Toohey: [Releases her hands of his collar.] Calm down, Miss Francon. I dare say
-my experience in this field had been… inadequate… but it is a common belief
+Toohey: [Releases her hands off his collar.] Calm down, Miss Francon. I dare say
+my experience in this field has been… inadequate… but it is a common belief
 that sometimes it is best to simply tell one’s object of affection about it.
 
 </s>
@@ -458,6 +460,8 @@ every detail of my love life would not help you a bit, would it? [She lets go
 of his hands, walks to her desk, and grabs her typewriter]
 
 +++: Wanna have lunch together?
+
+</s>
 
 </s>
 
