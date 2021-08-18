@@ -285,7 +285,7 @@ Gang members : [To themselves.] “Gee, his right”, “Yeah, let’s drop it o
 Former Gang Leader : [To Roark and Keating] Hey, sorry we’ve tried to kill you,
 amigos.
 
-[Roark and Keating walk towards the Mexican man who saved them.]
+[Roark and Keating walk towards Pedro who just saved them.]
 
 Keating: Gee, thanks for saving our lives.
 
@@ -574,7 +574,9 @@ Catherine: I do.
 Judge: Then, by the power invested in me by the state of Georgia, I now
 pronounce you man and wife.
 
-[Keating and Catherine kiss each other, then exit the frame. Cut to the dock.
+[Keating and Catherine kiss each other, then exit the frame.
+
+Cut to the dock.
 It’s night and Roark, Dominique, Wynand and Elizabeth are standing there,
 looking at the ocean. Catherine and Keating join them.]
 
@@ -633,7 +635,7 @@ my son will turn out like you.
 Rachel’s Voice: Dominique Francon-Roark decided she needed a challenge. So: she
 became the president of the United States.
 
-Secretary from the outside: Mrs. President , there’s a phone call for you.
+Secretary from the outside: Mrs. President, there’s a phone call for you.
 
 Dominique: [Picks up the phone] Hello.
 
