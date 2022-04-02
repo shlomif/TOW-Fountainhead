@@ -847,7 +847,7 @@ end is near - the lady cried.”
 
 Monica: Ehmm… Pheebs? That’s the “Mirror Crack’d from side to side”.
 
-Phoebe: Oh! Ayn Rand wrote “The Mirror Crack’d” too?
+Phoebe: Oh! Ayn Rand wrote <a href="https://en.wikipedia.org/wiki/The_Mirror_Crack%27d_from_Side_to_Side">“The Mirror Crack’d”</a> too?
 
 Ross: No, Phoebe. That was Agatha Christie.
 
