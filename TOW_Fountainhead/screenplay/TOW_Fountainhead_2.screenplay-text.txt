@@ -769,7 +769,7 @@ Toohey: Your actions will allow me to launch my new career as a saxophone
 player. [He shows his saxophone.] Hear this!
 
 [Toohey plays his saxophone - he rocks. Wynand listens to the music and nods
-with content.]
+with approval.]
 
 [<b>The End</b>.]
 
