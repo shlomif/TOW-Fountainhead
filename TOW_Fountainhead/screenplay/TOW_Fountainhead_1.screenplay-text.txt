@@ -41,7 +41,7 @@ Ross: You’ve already read it?
 
 Joey: Yeah [puts the book down]. I was in acting school, and the guys decided
 to throw a discussion about it. So, I decided that I’ll read the book so I can
-make a good impression on the ladies if y’know what I mean…
+make a good impression on the ladies, if y’know what I mean…
 
 Rachel: Yep, we know what you mean.
 
@@ -62,7 +62,7 @@ Joey: Not quite as much as the next night.
 
 Phoebe: [Entering.] Hiaaa, did I miss anything?
 
-Chandler: Well, Joey has an audition for a play version of  <i>The
+Chandler: Well, Joey has an audition for a play version of <i>The
 Fountainhead</i>.
 
 Phoebe: Oooh, [approaches] good for Joey [pats his head]. Did you read it
@@ -89,7 +89,7 @@ Ross: Yeah. All the characters in fact do nothing in the 20’s and 30’s, exce
 maybe build some buildings.
 
 Joey: If you ask me: the book is too slow-paced for the 90’s. I mean, in the
-60’s it may have worked but we’re in the information age now.
+60’s it may have worked, but we’re in the information age now.
 
 Ross: Joey, <i>The Fountainhead</i> was written in 1943.
 
@@ -97,9 +97,9 @@ Joey: Yeah, but it was still good enough in the 60’s right? OK: our own versio
 of <i>The Fountainhead</i> - here’s what I think it should look like
 
 [The screen becomes liquid-like and blurry to indicate an imagined sequence.
-Then: a dramatic music is heard and a black and white screen appears with the
-title <i>The Fountainhead</i> and several building around. The slide changes to
-“Starring: Chandler Bing, Phoebe Buffay, Monica Geller”.]
+Then: some dramatic music is being heard, and a black and white screen appears
+with the title <i>The Fountainhead</i> and several building around. The slide
+changes to “Starring: Chandler Bing, Phoebe Buffay, Monica Geller”.]
 
 Ross’ Voice: Let’s skip the opening, OK.
 
@@ -210,7 +210,7 @@ Roark: [Unenthusiastically] Yes, Peter. You are.
 
 <s id="catherine-and-toohey" title="Catherine and Toohey">
 
-Phoebe’s voice: Oooh, now I want to continue. Let’s see, yes. [The scene
+Phoebe’s voice: Oooh, now I want to continue. Let’s see… yes! [The scene
 changes to Ellsworth Toohey’s home] Keating and Roark, were not the only ones
 to arrive at New-York at that time. Catherine Halsey, Peter’s valentine for
 many years, who had just lost her mother, was moving to reside with her uncle.
@@ -289,12 +289,12 @@ Cameron: Sure thing. In that case, I’ll give each of you 10 bucks a week.
 
 [Keating shrugs, and smiles stupidly.]
 
-Chandler’s Voice: With Roark by his side and with Peter Keating doing the
+Chandler’s Voice: With Roark by his side, and with Peter Keating doing the
 public-relations work, Cameron became the hottest architect in New-York by the
 end of the year. However, after Roark and Cameron had a long fight of whether
 the steps of a certain house should be white or light beige, Peter suggested
 that they all go separate ways. Thus, Roark quit to open his own office, while
-Peter started his own public relations company and is now regarded as the
+Peter started his own public relations company. and is now regarded as the
 father of American publicists. [During this speech there are various slides:
 Cameron, Roark and Keating smiling; Roark and Cameron fighting while Peter
 tries to calm them down; a photo of the Keating Foundation.]
@@ -323,7 +323,7 @@ Peter: About which book?
 
 Catherine: Ahmmm… “Jane Eyre”.
 
-Peter: Really? I love “Jane Eyre”. [steps in] Oh, hello all! My name is Peter
+Peter: Really? I love “Jane Eyre”! [Steps in] Oh, hello all! My name is Peter
 Keating, I’m a friend of Catherine’s, and I’d really like to join you so you’ll
 excuse me for interrupting. By the way, you can call me Peter.
 
@@ -338,7 +338,7 @@ Catherine’s Female Friend No. 2: Yes. Good bye, Mr. Keating!
 
 Peter: Good-bye to you too, Miss Wellington.
 
-[Short pause. Catherine lowers her look and look around nervously.]
+[Short pause. Catherine lowers her look, and looks around nervously.]
 
 Catherine: So…
 
@@ -361,14 +361,14 @@ door.]
 
 [Cut to an office desk.]
 
-Monica’s voice: However Peter was not alone. Romance was waiting for Howard too
+Monica’s voice: However, Peter was not alone. Romance was waiting for Howard too
 in the form of Dominique Francon, a newly employed journalist in the New-York
 Banner, the city’s most popular second-class newspaper.
 
 [The camera zooms out to reveal Dominique (depicted by Rachel) organising her
 desk. Cut to Monica and Rachel’s]
 
-Rachel: <b>What?</b> Me? “Perfect beauty”? the most sought-after spinster in
+Rachel: <b>What?</b> Me? “Perfect beauty”? The most sought-after spinster in
 New-York city? As if!
 
 Joey: Why not?
@@ -379,7 +379,7 @@ Ross: See, see, even you admit that you’re chubby!
 
 Monica: The thing is, Roark… Ross is my brother.
 
-Rachel: All right. [sarcastically] In order to prevent adultery I’ll be
+Rachel: All right. [sarcastically] In order to prevent adultery, I’ll be
 Dominique Francon.
 
 [Cut to Dominique’s office. Toohey approaches.]
@@ -391,7 +391,7 @@ Dominique: Hello Mr. Toohey! Do you want anything?
 Toohey: Well, just to inform that it has been my observation that you are very
 fond of Mr. Howard Roark.
 
-Dominique: Roark? What of all things made you think that I’m attracted to this
+Dominique: Roark? What of all things made you think that I’m attracted to that
 orange-headed talentless architect?
 
 Toohey: For instance the last party of Mrs. Holcombe.
@@ -428,7 +428,7 @@ Roark: Oh, Miss Francon, please come in.
 Dominique: [Enters] I want to sleep with you.
 
 Roark: [Interrupting her] That’s very nice. I’d like to sleep with you too.
-But I’ve got some work to do, so I can’t. [sits back at his desk.]
+But I’ve got some work to do, so I can’t right now. [sits back at his desk.]
 
 Dominique: Hrrr…  all right - pretend that I’m not here. Pretend that you’d
 rather work on your stupid buildings. You wouldn’t even be distracted if I
@@ -456,8 +456,8 @@ telling me all that.
 
 Dominique: [Holding his hands] Mr. Toohey, you know that I know that you are
 the most hideous, devious, and destructive man in New-York city. But knowing
-every detail of my love life would not help you a bit, would it? [She lets go
-of his hands, walks to her desk, and grabs her typewriter]
+every detail of my love life would not help you a bit, now would it? [She lets
+go of his hands, walks to her desk, and grabs her typewriter]
 
 +++: Wanna have lunch together?
 
@@ -472,14 +472,14 @@ glass table. She is reading a book. The New-York Banner is laid on the table.
 Sophie is dressed in a light but very chic and elegant dress. Catherine enters,
 dressed much more plainly and in less style.]
 
-Sophie: [In a heavy aristocratic English accent] Oh, Catherine, darling! Do
-come in!
+Sophie: [In a heavy aristocratic British English accent] Oh, Catherine,
+darling! Do come in!
 
 [Catherine sits next to her, and sighs.]
 
 Sophie: Catherine, are you all right? What seems to be your problem.
 
-Catherine: You remember my boyfriend Peter?
+Catherine: You remember my boyfriend, Peter?
 
 Sophie: Yes. Quite a dish, isn’t he?
 
@@ -608,8 +608,8 @@ Pilot: Do it now. [Jumps out of the plane.]
 
 Catherine: Oh, oh!
 
-[Cut: Catherine’s parachute falls down. Gets stuck on a date tree and Catherine
-falls down into a greenery field.]
+[Cut: Catherine’s parachute falls down. It gets stuck on a date tree, and
+Catherine falls down into a greenery field.]
 
 Catherine: [Slowly] Eight lives left. [Looks and sees a four-leaf clover right
 in front of her eyes.] Oooohhh, [picks it up and gets up] make it nine!
@@ -625,7 +625,7 @@ Keating: OK, let’s go see the building site.
 [Gail Wynand enters]
 
 Wynand: Hey, Mr. Roark, Mr. Keating - welcome to Jamaica. My name is Gail
-Wynand, you must have heard of me, but here’s my card, just in case. [Hands
+Wynand. You must have heard of me, but here’s my card, just in case. [Hands
 them a card.]
 
 Roark: [Reading the card] “Gail Wynand. Newspaper tycoon, perpetual traveller,
@@ -684,7 +684,7 @@ Roark.
 
 Roark: Oh… Miss Francon, Hi. So, what are you doing here in Jamaica?
 
-Dominique: I’m doing my Banner column on housing tips from Caribbean Women.
+Dominique: I’m doing my Banner column on housing tips from Caribbean Women, this time.
 
 Roark: I have met Mr. Wynand, whom I believe is your boss. I’ll be meeting him
 again this evening. How charming.
@@ -710,7 +710,7 @@ Wynand: Call me Gail. Anyway, what did you say if I told you that I’ll arrange
 it so you two can never work at building buildings or doing public-relations stuff
 again? I’ll even give you a monthly allowance?
 
-Elizabeth: Not again… [she puts her head in her hands.]
+Elizabeth: Not again… [she puts her head in her palms.]
 
 [Roark and Keating look at each other, buffled]
 
