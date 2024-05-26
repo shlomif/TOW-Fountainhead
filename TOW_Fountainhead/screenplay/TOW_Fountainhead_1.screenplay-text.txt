@@ -81,9 +81,7 @@ Joey: Come on, if you wanted to write it today, would you write the same book?
 
 [Silence.]
 
-Phoebe: Well, for one: didn’t it bother you that Dominique Francon, the main
-female character, didn’t do anything in the best years of her life, except
-like… sleeping with people?
+Phoebe: Well, for one: didn’t it bother you that <a href="https://www.cliffsnotes.com/literature/f/the-fountainhead/character-analysis/dominique-francon">Dominique Francon</a>, the main female character, didn’t do anything in the best years of her life, except like… sleeping with people?
 
 Ross: Yeah. All the characters in fact do nothing in the 20’s and 30’s, except
 maybe build some buildings.
@@ -111,7 +109,7 @@ Ross’ Voice: Let’s skip the opening, OK.
 office is shown. The dean is standing in the middle holding one picture in each
 one of his hands.
 
-Ross enters the room in informal clothes, and with an Orange-colored hair.]
+<a href="https://www.sparknotes.com/lit/fountainhead/character/howard-roark/">Howard Roark</a>, depicted as Ross, enters the room in informal clothes, and with an Orange-colored hair.]
 
 [Cut to the girls’ apartment.]
 
@@ -176,8 +174,7 @@ Roark: I think I’m going to leave now. Thanks again.
 
 <s id="roark-and-keating-planning" title="Roark and Keating Planning Their Future">
 
-[Roark leaves the room, and on his way out meets Chandler who is wearing a
-black graduation cloak.]
+[Roark leaves the room, and on his way out meets <a href="https://www.sparknotes.com/lit/fountainhead/character/peter-keating/">Peter Keating</a>, depicted as Chandler who is wearing a black graduation cloak.]
 
 Peter Keating: Oh, hey Howard. How did it go?
 
@@ -217,8 +214,8 @@ many years, who had just lost her mother, was moving to reside with her uncle.
 The latter was Ellsworth Toohey, a creepy academic and journalist of the
 so-called “humanitarian” kind.
 
-[The door is ringing. Toohey (depicted by Mr. Heckels) goes to open it.
-Catherine (Phoebe in a casual dress, made to look very young) is standing
+[The door is ringing. <a href="https://www.cliffsnotes.com/literature/f/the-fountainhead/character-analysis/ellsworth-toohey">Toohey</a> (depicted by Mr. Heckels) walks to open it.
+<a href="https://www.cliffsnotes.com/literature/f/the-fountainhead/character-analysis/catherine-halsey">Catherine Halsey</a> (depicted as Phoebe in a casual dress, made to look very young) is standing
 behind it.]
 
 Catherine: Hey Uncle Ellsworth!
@@ -261,8 +258,7 @@ Catherine: On second thought: I’ll do all the cooking.
 
 <s id="meet-cameron" title="Meet Cameron">
 
-[Cut to Cameron’s Office door. Roark and Keating arrive there after climbing
-the stairs.]
+[Cut to <a href="https://www.cliffsnotes.com/literature/f/the-fountainhead/character-analysis/henry-cameron">Henry Cameron</a>’s Office door. Roark and Keating arrive there after climbing the stairs.]
 
 Cameron: [Shouting from behind the door] You bastard, can’t you do a basic
 design the right way? One day I’ll have you fired. On second thought, one day
@@ -304,8 +300,7 @@ tries to calm them down; a photo of the Keating Foundation.]
 <s id="book-discussion-about-Jane-Eyre" title="Book Discussion about Jane Eyre">
 
 [Cut to Catherine’s apartment. She is hosting a book discussion with many of
-her female friends. Sophie (depicted by Bonnie, the friend Phoebe fixed up with
-Ross) with long blonde hair and looking in her prime is there.]
+her female friends. Sophie (= an original character, depicted by Bonnie, the friend Phoebe fixed up with Ross) with long blonde hair and looking in her prime is there.]
 
 Catherine’s Female Friend No. 1: So I was thinking Jane has no choice but to go
 back to Mr. Rochester. Otherwise, the readers will say: hey, it was a great
@@ -317,7 +312,7 @@ Catherine: Oh, hello Peter. Ahmm… you can’t come in now.
 
 Peter: [With a tone of casual interest] Why, what are you doing now?
 
-Catherine: Ahmmm.. I’m having a book discussion.
+Catherine: Ahmmm… I’m having a book discussion.
 
 Peter: About which book?
 
@@ -399,7 +394,7 @@ Toohey: For instance the last party of Mrs. Holcombe.
 Dominique: What about that party? I hardly looked in his direction more than
 once.
 
-Toohey: Exactly.
+Toohey: Exactly!
 
 Dominique: Mr. Toohey, I should say it is my diagnosis that you over-estimate
 your “powers of observation”.
@@ -451,8 +446,7 @@ Dominique: Anyway, then we were tired of fooling around, so we went to bed,
 and I started telling him about my day, but you know men: he fell asleep
 immediately.
 
-Toohey: As much as I enjoy it, Miss Francon, I do not understand why you are
-telling me all that.
+Toohey: As much as I enjoy hearing it, Miss Francon, I do not understand why you are telling me all that.
 
 Dominique: [Holding his hands] Mr. Toohey, you know that I know that you are
 the most hideous, devious, and destructive man in New-York city. But knowing
@@ -540,12 +534,11 @@ Catherine: [Disappointedly] Bye.
 Catherine: So I went there, and Howard Roark was there, and Peter said they had
 to go to Jamaica to build some hotel out of wood or something.
 
-Sophie: Oh no. [She grabs the paper on the table.]
+Sophie: Oh, no! [She grabs the paper on the table.]
 
 Catherine: What’s the matter.
 
-Sophie: Gail Wynand is in Jamaica. [Shows a copy of the New-York Banner with a
-picture of Joey with an all-face white beard on the cover.]
+Sophie: <a href="https://www.cliffsnotes.com/literature/f/the-fountainhead/character-analysis/gail-wynand">Gail Wynand</a> is in Jamaica. [Shows a copy of the New-York Banner with a picture of Gail Wynand (depicted as Joey) with an all-face white beard on the cover.]
 
 [Cut to Monica and Rachel’s]
 
@@ -633,7 +626,8 @@ and famous American playboy”.
 
 Wynand: This card is slightly out of date. I now see myself more as an
 <b>international</b> playboy. Anyway: meet Elizabeth, the current love of my
-life. [Elizabeth, depicted by Monica enters the frame.]
+life. [Elizabeth Rousley (= an original character), depicted by Monica enters
+the frame.]
 
 [Cut to Monica and Rachel’s]
 
@@ -707,8 +701,8 @@ very good as a publicist.
 Keating and Roark: Thanks, Mr. Wynand.
 
 Wynand: Call me Gail. Anyway, what did you say if I told you that I’ll arrange
-it so you two can never work at building buildings or doing public-relations stuff
-again? I’ll even give you a monthly allowance?
+it so you two can never work at building buildings or doing public-relations
+stuff again? I’ll even give you a monthly allowance?
 
 Elizabeth: Not again… [she puts her head in her palms.]
 
@@ -747,7 +741,7 @@ Roark: OK. Cruising with you sounds like a good idea.
 [Cut to the beach of a Caribbean island. The girls are sitting on the sand, the
 boys are standing to the left, a little farther from the water.]
 
-Roark: Cruising with you was a <b>bad</b> idea, Gail.
+Roark: Cruising with you was a <b>bad</b> idea, Gail!
 
 Wynand: Hey, relax, so the yacht drowned. I’ll just use my contacts to get us
 out of here. Now, what island this is… ahmmm. On second thought: it’s
