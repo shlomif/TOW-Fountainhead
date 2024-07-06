@@ -290,7 +290,7 @@ public-relations work, Cameron became the hottest architect in New-York by the
 end of the year. However, after Roark and Cameron had a long fight of whether
 the steps of a certain house should be white or light beige, Peter suggested
 that they all go separate ways. Thus, Roark quit to open his own office, while
-Peter started his own public relations company. and is now regarded as the
+Peter started his own public relations company, and is now regarded as the
 father of American publicists. [During this speech there are various slides:
 Cameron, Roark and Keating smiling; Roark and Cameron fighting while Peter
 tries to calm them down; a photo of the Keating Foundation.]
@@ -316,7 +316,7 @@ Catherine: Ahmmm… I’m having a book discussion.
 
 Peter: About which book?
 
-Catherine: Ahmmm… “Jane Eyre”.
+Catherine: Ahmmm… <a href="https://en.wikipedia.org/wiki/Jane_Eyre">“Jane Eyre”</a>.
 
 Peter: Really? I love “Jane Eyre”! [Steps in] Oh, hello all! My name is Peter
 Keating, I’m a friend of Catherine’s, and I’d really like to join you so you’ll
@@ -356,9 +356,9 @@ door.]
 
 [Cut to an office desk.]
 
-Monica’s voice: However, Peter was not alone. Romance was waiting for Howard too
-in the form of Dominique Francon, a newly employed journalist in the New-York
-Banner, the city’s most popular second-class newspaper.
+Monica’s voice: However, Peter was not alone. Romance was waiting for Howard
+too, in the form of Dominique Francon, a newly employed journalist in the
+New-York Banner, the city’s most popular second-class newspaper.
 
 [The camera zooms out to reveal Dominique (depicted by Rachel) organising her
 desk. Cut to Monica and Rachel’s]
@@ -449,7 +449,7 @@ immediately.
 Toohey: As much as I enjoy hearing it, Miss Francon, I do not understand why you are telling me all that.
 
 Dominique: [Holding his hands] Mr. Toohey, you know that I know that you are
-the most hideous, devious, and destructive man in New-York city. But knowing
+the most hideous, devious, and destructive, man in New-York city. But knowing
 every detail of my love life would not help you a bit, now would it? [She lets
 go of his hands, walks to her desk, and grabs her typewriter]
 
@@ -519,7 +519,7 @@ Keating: Howard and I are going to Jamaica to build this hotel.
 Roark: It would be the first building I make out of wood. Should be quite
 interesting.
 
-Keating: So, bye Catherine.
+Keating: So, bye, Catherine.
 
 Roark: Farewell, Miss Halsey.
 
@@ -542,7 +542,7 @@ Sophie: <a href="https://www.cliffsnotes.com/literature/f/the-fountainhead/chara
 
 [Cut to Monica and Rachel’s]
 
-Joey: Gail Wynand? Yeah!! He’s rich, powerful and has all the babes he wants.
+Joey: Gail Wynand? Yeah!! He’s rich, powerful, and has all the babes he wants.
 
 Chandler: Reminds me of you. Except that you’re not rich… or powerful.
 
@@ -626,7 +626,7 @@ and famous American playboy”.
 
 Wynand: This card is slightly out of date. I now see myself more as an
 <b>international</b> playboy. Anyway: meet Elizabeth, the current love of my
-life. [Elizabeth Rousley (= an original character), depicted by Monica enters
+life. [Elizabeth Rousley (= an original character), depicted by Monica, enters
 the frame.]
 
 [Cut to Monica and Rachel’s]
@@ -652,7 +652,7 @@ Wynand: Howard Roark and Peter Keating. [In a Joey-like manner] Isn’t it great
 Catherine: Yoooouuuu! [pointing at Keating]
 
 Keating: Hey Catherine, how did you get here? Anyway, meet Gail Wynand and his
-emm… lady-friend Miss Elizabeth…
+emm… lady-friend, Miss Elizabeth…
 
 Elizabeth: Rousley.
 
@@ -691,7 +691,7 @@ again this evening. How charming.
 elegant way.]
 
 Wynand: So, I said to them: “No. I don’t remember seeing anyone that looks like
-Woodrow Wilson passing by…”
+<a href="https://en.wikipedia.org/wiki/Woodrow_Wilson">Woodrow Wilson</a> passing by…”
 
 [Everybody laughs.]
 
@@ -823,14 +823,13 @@ Chandler: I say we have a masterpiece in the making.
 
 <s id="what-Ayn-Rand-did-afterwards" title="What did Ayn Rand do afterwards?">
 
-[Cut. End Credits. Phoebe is sitting on the couch reading The
-Fountainhead.]
+[Cut. End Credits. Phoebe is sitting on the couch reading The Fountainhead.]
 
 Phoebe: Wow, I forgot how great <i>The Fountainhead</i> was. So what did Rand do
 afterwards?
 
 Ross: Well, she wrote the screenplay for the movie adaptation of the
-book, which starred Gary Cooper…
+book, which starred <a href="https://en.wikipedia.org/wiki/Gary_Cooper">Gary Cooper</a>…
 
 Phoebe: Oooh, yummy…
 
