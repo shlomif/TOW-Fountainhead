@@ -51,7 +51,7 @@ Roark: Ehhhm, Honey? Mangos don’t grow in the Caribbean.
 
 Dominique: They don’t?
 
-Roark: No, they are a native plant of the Old World.
+Roark: No. They are a native plant of the Old World.
 
 Dominique: Then we’re sick of eating… whatever we ate. Will you get us out of
 this island?
@@ -60,8 +60,8 @@ Roark: We are discussing how to get out of here right now.
 
 Dominique: You’ve been doing it for three days now!
 
-Roark: But we’ve made important progress: we passed the brainstorming stage and
-right now we’re in the solution analysis and evaluation stage.
+Roark: But we’ve made important progress: we passed the brainstorming stage,
+and right now we’re in the solution analysis and evaluation stage.
 
 Dominique: Errgggh!
 
@@ -105,7 +105,7 @@ Elizabeth: [Looks up] I beg your pardon?
 
 [Camera zooms out to reveal the back of a woman wearing an extravagant dress.]
 
-French Woman: Oh, excuse me, for not introducing myself. My name is Brigitte
+French Woman: Oh, excuse me for not introducing myself! My name is Brigitte
 de-Nouver, and I’m aan art critic. [Dominique and Catherine walk and stand
 beside Elizabeth] My husband and I were cruising the Caribbean in our yacht and
 then I saw it.
@@ -133,8 +133,8 @@ of here?
 plant growth, and still discussing the possible ways of getting out of the
 island. Brigitte passes by, leading a group of art enthusiasts.]
 
-Brigitte: [She stops.] And here we can see the New-York architect Howard Roark;
-his good friend Peter Keating the publicist [Peter raises his hand and waves at
+Brigitte: [She stops.] And here we can see the New-York architect, Howard Roark;
+his good friend, Peter Keating the publicist [Peter raises his hand and waves at
 the crowd]; and Gail Wynand, the newspaper tycoon and famous American playboy…
 
 Wynand: Famous international playboy.
@@ -143,21 +143,21 @@ Brigitte: …Famous international playboy. They are one of the island’s most
 important aanimated details. Their presence amplify the irony in the situation
 those three women faced…
 
-[A black man approaches the fountain-boys from the other side.]
+[Rob, a black man, approaches the fountain-boys from the other side.]
 
-Black man: Are you Peter Keating, Howard Roark and Gail Wynand?
+Rob: Are you Peter Keating, Howard Roark, and Gail Wynand?
 
 Keating: Yes.
 
-Man: My name is Rob, and I’m a boat-owner. Your lady-friends instructed me to
+Rob: My name is Rob, and I’m a boat-owner. Your lady-friends instructed me to
 bring you back to Jamaica.
 
 Wynand: Our lady-friends?
 
-Keating: Gee, that’s nice of them.
+Keating: Gee, that’s nice of them!
 
 Roark: Yeah, it would have taken us several more days to finish this
-discussion. [They rise and start following Rob.] Regarding what you said about
+discussion! [They rise and start following Rob.] Regarding what you said about
 the bonfire…
 
 </s>
@@ -307,9 +307,9 @@ Pedro: Thanks, man!
 [Cut. It’s afternoon and Roark and Keating are walking in the middle of the
 desert.]
 
-Keating: You know, walking in the desert and avoiding those towns, was a good
-idea to stay out of trouble. But I’m getting thirsty. What do you say we sneak
-to a well?
+Keating: You know, walking in the desert, and avoiding those towns, was a good
+strategy to stay out of trouble. But I’m getting thirsty. What do you say we
+sneak to a well?
 
 Roark: As you wish, Peter.
 
@@ -333,7 +333,7 @@ actually like you. And I really appreciate how you helped me and Cameron.
 Keating: Gee, Roark, it’s nice to hear that. I will cherish that thought for
 the next couple of… minutes.
 
-[The Indian crowd start cheering and shouting. Long shot, then close up on the
+[The Indian crowd starts cheering and shouting. Long shot, then close up on the
 Indian chieftain who is standing in the middle of the platform. He knocks three
 times with his staff, and the crowd silences.]
 
@@ -371,7 +371,7 @@ knife close to his throat.]
 
 Roark: Untie Peter, and let the three of us escape, or else Wynand gets it!
 
-Wynand: [To Roark] nice move.
+Wynand: [To Roark] nice move!
 
 Roark: Thanks.
 
@@ -446,9 +446,9 @@ approaches the cell’s door and opens it.]
 Border Guard: Guess what? Someone paid up your bail. They identify themselves
 as your lady-friends.
 
-[Dominique, Elizabeth and Catherine enter the frame.]
+[Dominique, Elizabeth, and Catherine enter the frame.]
 
-Dominique: Well, well, if it isn’t deja-vu.
+Dominique: Well, well. If it isn’t deja-vu.
 
 Roark: So how did you survive and arrive here safe and sound?
 
@@ -544,18 +544,18 @@ Roark: You have to understand that I can’t let this relationship interfere wit
 my work.
 
 Dominique: My father warned me about men. He said “they are all the same,
-including me”, but I thought some men are different, apparently I was wrong…
+including me”, but I thought some men are different. Apparently I was wrong…
 
 [They continue arguing. Cut to the corridor, Keating and Catherine enter it
 from the deck.]
 
-Catherine: Oh, isn’t it nice to see two couples sorting things out.
+Catherine: Oh, isn’t it nice to see two couples sorting things out?
 
 Keating: Yes, really nice.
 
 Catherine: You know, I’ve been thinking about our relationship too…
 
-Keating: [Looks at the two arguing couples.] Oh no.
+Keating: [Looks at the two arguing couples.] Oh no!
 
 Catherine: And you know what I think we should do?
 
@@ -696,7 +696,9 @@ Catherine: Well, my good friend, Elizabeth Wynand…
 
 Mrs. Keating: The famous Chef?
 
-Catherine: Yeah! Totally? I’m also good friends with her husband, Gail.
+Catherine: Yeah! Totally!
+
+Catherine: I’m also good friends with her husband, Gail.
 
 Mrs. Keating: Get out!
 
@@ -765,7 +767,7 @@ enough, wait here.
 [Toohey leaves the office. Wynand waits, puzzled. After a few seconds, there’s
 a cut to the door, showing Toohey entering with a belt around his neck.]
 
-Toohey: Your actions will allow me to launch my new career as a saxophone
+Toohey: Your actions will allow me to launch my new career - as a saxophone
 player. [He shows his saxophone.] Hear this!
 
 [Toohey plays his saxophone - he rocks. Wynand listens to the music and nods
