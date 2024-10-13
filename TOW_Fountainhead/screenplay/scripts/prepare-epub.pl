@@ -5,7 +5,7 @@ use warnings;
 
 use utf8;
 
-use Shlomif::Screenplays::EPUB;
+use Shlomif::Screenplays::EPUB ();
 
 my $gfx = 'towtf-logo-200px.jpg';
 my $obj = Shlomif::Screenplays::EPUB->new(
@@ -42,7 +42,7 @@ foreach my $part ( path($filename)->basename =~ /\ATOW_Fountainhead_([0-9]+)/g )
                         role => "oth",
                     },
                 ],
-                cover => "images/$gfx",
+                cover  => "images/$gfx",
                 rights =>
 "Creative Commons Attribution ShareAlike Unported (CC-by-sa-3.0)",
                 publisher  => 'http://www.shlomifish.org/',
@@ -50,7 +50,8 @@ foreach my $part ( path($filename)->basename =~ /\ATOW_Fountainhead_([0-9]+)/g )
                 subjects   => [ 'FICTION/Humorous', 'FICTION/Mashups', ],
                 identifier => {
                     scheme => 'URL',
-                    value  => 'http://www.shlomifish.org/humour/TOWTF/',
+                    value  =>
+'https://www.shlomifish.org/humour/TOneW-the-Fountainhead/',
                 },
             },
         },
