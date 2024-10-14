@@ -687,8 +687,8 @@ again this evening. How charming.
 
 <s id="Wynands-offer" title="Wynand’s Offer">
 
-[Cut to a restaurant. Everybody is sitting there, dressed in a light but
-elegant way.]
+[Cut to a restaurant. Everybody (Roark, Keating, Wynand, Dominique, Catherine,
+and Elizabeth) is sitting there, dressed in a light but elegant way.]
 
 Wynand: So, I said to them: “No. I don’t remember seeing anyone that looks like
 <a href="https://en.wikipedia.org/wiki/Woodrow_Wilson">Woodrow Wilson</a> passing by…”
@@ -700,7 +700,7 @@ very good as a publicist.
 
 Keating and Roark: Thanks, Mr. Wynand.
 
-Wynand: Call me Gail. Anyway, what did you say if I told you that I’ll arrange
+Wynand: Call me “Gail”. Anyway, what did you say if I told you that I’ll arrange
 it so you two can never work at building buildings or doing public-relations
 stuff again? I’ll even give you a monthly allowance?
 
