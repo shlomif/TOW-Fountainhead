@@ -214,7 +214,7 @@ many years, who had just lost her mother, was moving to reside with her uncle.
 The latter was Ellsworth Toohey, a creepy academic and journalist of the
 so-called “humanitarian” kind.
 
-[The door is ringing. <a href="https://www.cliffsnotes.com/literature/f/the-fountainhead/character-analysis/ellsworth-toohey">Toohey</a> (depicted by Mr. Heckels) walks to open it.
+[The door is ringing. <a href="https://www.cliffsnotes.com/literature/f/the-fountainhead/character-analysis/ellsworth-toohey">Toohey</a> (depicted by <a href="https://friends.fandom.com/wiki/Mr._Heckles">Mr. Heckels</a>) walks to open it.
 <a href="https://www.cliffsnotes.com/literature/f/the-fountainhead/character-analysis/catherine-halsey">Catherine Halsey</a> (depicted as Phoebe in a casual dress, made to look very young) is standing
 behind it.]
 
@@ -266,8 +266,7 @@ I’ll have all of you fired.
 
 Keating: [Looking at the sign on the door] Well that’s the place.
 
-[Roark opens the door and they both enter. Cameron (depicted by Mr. Geller) is
-sitting at his desk looking at a design.]
+[Roark opens the door and they both enter. Cameron (depicted by <a href="https://friends.fandom.com/wiki/Jack_Geller">Jack Geller</a>, Ross and Monica’s father) is sitting at his desk looking at a design.]
 
 Cameron: [To Roark and Keating] What do ya want?
 
@@ -300,7 +299,7 @@ while Peter tries to calm them down; a photo of the Keating Foundation.]
 <s id="book-discussion-about-Jane-Eyre" title="Book Discussion about Jane Eyre">
 
 [Cut to Catherine’s apartment. She is hosting a book discussion with many of
-her female friends. Sophie (= an original character, depicted by Bonnie, the friend Phoebe fixed up with Ross) with long blonde hair and looking in her prime is there.]
+her female friends. Sophie (= an original character, depicted by <a href="https://friends.fandom.com/wiki/Bonnie">Bonnie</a>, the friend Phoebe fixed up with Ross) with long blonde hair and looking in her prime is there.]
 
 Catherine’s Female Friend No. 1: So I was thinking Jane has no choice but to go
 back to Mr. Rochester. Otherwise, the readers will say: hey, it was a great
@@ -505,7 +504,7 @@ Sophie: Why not go visit him in his office for a start?
 Keating’s Secretary: Mr. Keating, there’s a Miss Catherine Halsey here to see
 you.
 
-Keating: Let her in. [Catherine enters into Keating’s office. Keating is there
+Keating: Please let her in. [Catherine enters into Keating’s office. Keating is there
 speaking with Roark.]
 
 Keating: Hey Catherine, you remember Howard Roark, right?
