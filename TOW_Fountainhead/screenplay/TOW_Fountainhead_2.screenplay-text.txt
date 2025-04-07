@@ -41,7 +41,7 @@ Joey: Gee, thanks. [Sits down] So, why don’t we continue from where we got to?
 near the beach talking, the girls are standing at the back of the frame.
 Everybody’s clothes are in worse condition, which indicates they had been there for
 quite a while. Dominique walks towards the men, and it is clear from her
-expression that she’s angry.]
+facial expression that she’s angry.]
 
 Dominique: Howard, [she arrives at the boys’ location] we’ve been on this
 island for three days now. We’re sick of eating coconuts. We’re sick of eating
@@ -184,7 +184,7 @@ Elizabeth: No. People flocked to my restaurant, just because I was the only
 American chef in London.
 
 +++: So, I moved to the Canary islands, where people thought my food was a nice
-change, and didn’t care much about me being a woman or not. And then Gail came
+change, and didn’t care too much about me being a woman or not. And then Gail came
 by, and I decided to join him on his endless travels.
 
 Catherine: Interesting life story.
@@ -683,8 +683,9 @@ Monica’s Voice: Elizabeth settled down in New-York, and became a chef. And
 thanks to Dominique becoming president, she didn’t suffer from any
 discrimination.
 
-[Cut to Keating’s Kitchen. Catherine and Keating’s mother (played by Alice
-Knight, Phoebe’s brother’s wife.) are standing there, talking.]
+[ Cut to Keating’s Kitchen. Catherine and Keating’s mother (played by
+<a href="https://friends.fandom.com/wiki/Alice_Knight">Alice Knight</a>,
+Phoebe’s brother’s wife.) are standing there, talking. ]
 
 Phoebe’s voice: Catherine got along great with Peter’s mother.
 
